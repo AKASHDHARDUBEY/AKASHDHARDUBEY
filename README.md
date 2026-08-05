@@ -157,7 +157,7 @@ Personal site showcasing projects, skills & experience.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AKASHDHARDUBEY&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=AKASHDHARDUBEY&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
 <br/>
