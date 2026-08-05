@@ -1,5 +1,43 @@
-## Hi there 👋
 
+# Hi 👋 I'm Akash Dhar Dubey
+
+🚀 AI Engineer
+
+🌱 Building AI for Agriculture
+
+💻 Full Stack Developer
+
+---
+
+## Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- Python
+- TensorFlow
+- FastAPI
+
+---
+
+## My Projects
+
+🌾 AgriConnect
+
+🌍 AgriVisionAI
+
+🤖 AI Chatbots
+
+---
+
+## Connect with Me
+
+LinkedIn https://www.linkedin.com/in/akashdhardubey/
+
+Portfolio: https://akashdhar.in/
+
+Email: akashdhar2112@gmail.com
 <!--
 **AKASHDHARDUBEY/AKASHDHARDUBEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
