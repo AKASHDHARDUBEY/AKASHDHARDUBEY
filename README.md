@@ -1,60 +1,40 @@
+# Hi 👋, I'm Akash Dhar Dubey
 
-# Hi 👋 I'm Akash Dhar Dubey
+### 🚀 AI Engineer | Full Stack Developer | Machine Learning Enthusiast
 
-🚀 AI Engineer
+🌱 Currently building AI solutions for Agriculture
 
-🌱 Building AI for Agriculture
-
-💻 Full Stack Developer
-
----
-
-## Tech Stack
-
-- React
-- Node.js
-- Express
-- MongoDB
-- Python
-- TensorFlow
-- FastAPI
+💡 Passionate about Computer Vision, GenAI, Remote Sensing & Full Stack Development
 
 ---
 
-## My Projects
+## 🚀 Tech Stack
 
-🌾 AgriConnect
-
-🌍 AgriVisionAI
-
-🤖 AI Chatbots
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,mongodb,fastapi,tensorflow,git,github,vscode,docker,firebase,azure" />
+</p>
 
 ---
 
-## Connect with Me
+## 🌟 Featured Projects
 
-LinkedIn https://www.linkedin.com/in/akashdhardubey/
+- 🌾 **AgriConnect** – AI-powered agriculture platform
+- 🌍 **AgriVisionAI** – Smart irrigation using satellite data
+- 🤖 AI Chatbots
+- 📈 IPO Insider
+- 🎮 2048 Game
+- 💻 Portfolio Website
 
-Portfolio: https://akashdhar.in/
+---
 
-Email: akashdhar2112@gmail.com
+## 📫 Connect with Me
 
+- 🌐 Portfolio: https://akashdhar.in
+- 💼 LinkedIn: https://www.linkedin.com/in/akashdhardubey/
+- 📧 Email: akashdhar2112@gmail.com
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKASHDHARDUBEY&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## ⚡ Fun Fact
 
-<!--
-**AKASHDHARDUBEY/AKASHDHARDUBEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I love building AI products that solve real-world problems.
