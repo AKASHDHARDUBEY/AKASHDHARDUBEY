@@ -143,8 +143,8 @@ Personal site showcasing projects, skills & experience.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AKASHDHARDUBEY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHDHARDUBEY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&langs_count=8" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=AKASHDHARDUBEY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AKASHDHARDUBEY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&langs_count=8" />
 
 <br/>
 
