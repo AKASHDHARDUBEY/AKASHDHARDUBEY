@@ -150,10 +150,6 @@ Personal site showcasing projects, skills & experience.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASHDHARDUBEY&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=0EA5E9&currStreakLabel=22C55E" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASHDHARDUBEY&theme=react-dark&hide_border=true&bg_color=0D1117&color=22C55E&line=0EA5E9&point=FFFFFF" width="98%"/>
-
 </div>
 
 <br/>
