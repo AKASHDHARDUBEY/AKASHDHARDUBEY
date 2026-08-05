@@ -168,7 +168,7 @@ Personal site showcasing projects, skills & experience.
 <img src="https://raw.githubusercontent.com/AKASHDHARDUBEY/AKASHDHARDUBEY/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ℹ️ The snake animation needs a one-time GitHub Action set up in your profile repo — see the note at the bottom of this file for the exact steps.
+> 
 
 <br/>
 
