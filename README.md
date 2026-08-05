@@ -40,7 +40,9 @@ Portfolio: https://akashdhar.in/
 Email: akashdhar2112@gmail.com
 
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHDHARDUBEY&show_icons=true&theme=tokyonight)
 
 
 <!--
